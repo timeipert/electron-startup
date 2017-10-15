@@ -17,8 +17,8 @@ npm start
 ```
 and execute 
 ```
-  require('devtron').install();
-  ``` 
+require('devtron').install();
+``` 
   in the developer tools console.
   
   Have fun!
